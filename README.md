@@ -4,7 +4,7 @@ This repository contains the code for the project "**Design and Implementation o
 
 This repository is organised as follows:
 - The `Arduino.m` file is used to process and visualize the data acquired from all our sensors
-- The 'sketch_apr20.ino' is used to configure the Arduino board properly before interfacing with the sensors and the PC host.
+- The `sketch_apr20.ino` is used to configure the Arduino board properly before interfacing with the sensors and the PC host.
 
 |------------------------------|
 
