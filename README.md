@@ -5,3 +5,7 @@ This repository contains the code for the project "**Design and Implementation o
 The repository is organised as follows:
 - The `Arduino.m` file is used to process and visualize the data acquired from all the sensors
 - The `sketch_apr20.ino` is used to configure the Arduino board properly before interfacing with the sensors and the PC host.
+
+To run the code you will need to install: 
+- [MATLAB](https://ch.mathworks.com/products/matlab.html)
+- [Arduino IDE](https://www.arduino.cc/en/software)
